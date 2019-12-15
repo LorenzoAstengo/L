@@ -1,7 +1,7 @@
 
 							L ++ 
 ----------------------------------------------------------------
-Esende il linguaggio L visto nel corso LPO 2018/19 della facolta` 
+Estende il linguaggio L visto nel corso LPO 2018/19 della facolta` 
 di Informatica di UniGe.
 ----------------------------------------------------------------
 
